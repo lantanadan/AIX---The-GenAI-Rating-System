@@ -24,4 +24,9 @@ Similarly, if you are coming here to learn about this rating system, I encourage
 These ratings are Creative Commons Non-Commercial Sharealike and you are free to use them or modify them in your own works. I have chosen this license specifically because the ratings themselves aren't for sale and are not meant to be sold. The ZIP file includes SVG and Adobe Illustrator vector files, as well as PNG's appropriate for screens and for printing. Each rating has 10 different variations for Artwork, Films, Games, Videos, Music, Software, Websites, Books, Papers, and Reports for your convenience, but you are free to modify these to fit your specific needs too!
 
 Please include the following attribution with your work:
+<br>
 <a href="https://github.com/lantanadan/AIX---The-GenAI-Rating-System">AIX - The GenAI Rating System</a> © 2025 by <a href="https://github.com/lantanadan">Danny Silvers</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+Or in Plain Text:
+AIX - The GenAI Rating System  © 2025 by Danny Silvers is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
