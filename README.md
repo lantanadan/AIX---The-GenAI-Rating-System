@@ -19,7 +19,7 @@ Similarly, if you are coming here to learn about this rating system, I encourage
 <b>AI X</b> - A rating of X means the project is 90-100% AI generated, top to bottom. A human may have written the prompt, but even this is questionable. For instance, a videogame which includes 100% AI generated design, art, sound, and code would get a rating of X, even if the resulting pieces were put together manually in a game engine. Similarly, a video created using 100% AI generated shots would get a rating of X, even if it was manually edited together. Music would get a rating of X if the instrumentation and words were written by the machine, but sung by a human. A rating of X is appropriate for any creation, be it film, video, image, song, story, news article, research paper, etc. created strictly using prompts, rather than by traditional means, and any work done by a human subsidized the generated work.
 
 # Using the Ratings
-These ratings are Creative Commons Non-Commercial Sharealike and you are free to use them or modify them in your own works. I have chosen this license specifically because the ratings themselves aren't for sale and are not meant to be sold. The ZIP file includes SVG and Adobe Illustrator vector files, as well as PNG's appropriate for screens and for printing. Each rating has 10 different variations for Artwork, Films, Games, Videos, Music, Software, Websites, Books, Papers, and Reports for your convenience, but you are free to modify these to fit your specific needs too!
+These ratings are Creative Commons Non-Commercial Sharealike and you are free to use them or modify them in your own works. I have chosen this license specifically because the ratings themselves aren't for sale and are not meant to be sold. But make no mistake, you can, and SHOULD, apply an appropriate rating in your commercial projects, preferably in the credits, description, or readmile file.
 
 Please include the following attribution with your work:
 <br>
@@ -28,6 +28,8 @@ Please include the following attribution with your work:
 Or in Plain Text:
 <br>
 AIX - The GenAI Rating System  © 2025 by Danny Silvers is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+The included ZIP has SVG and Adobe Illustrator vector files, as well as PNG's appropriate for screens and for printing. Each rating has 10 different variations for Artwork, Films, Games, Videos, Music, Software, Websites, Books, Papers, and Reports for your convenience, but you are free to modify these to fit your specific needs too.
 
 # Get Involved
 This is an ongoing project and will receive updates as needed. The ratings are in desperate need of translation, preferably better than what Google Translate or a chatbot could do, so if you would like to take this on you can send translations my way or fork the project into your own language! If you have other ideas for the ratings, I am very open to feedback and will see what I can do.
