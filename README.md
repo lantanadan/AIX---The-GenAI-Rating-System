@@ -30,7 +30,8 @@ Or in Plain Text:
 AIX - The GenAI Rating System  © 2025 by Danny Silvers is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Get Involved
-This is an ongoing project and will receive updates as needed. The ratings are in desperate need of translation, preferably better than what Google Translate or a chatbot could do, so if you would like to take this on you can send translations my way or fork the project into your own language!
+This is an ongoing project and will receive updates as needed. The ratings are in desperate need of translation, preferably better than what Google Translate or a chatbot could do, so if you would like to take this on you can send translations my way or fork the project into your own language! If you have other ideas for the ratings, I am very open to feedback and will see what I can do.
 
-<center><img width="432" height="104" alt="pageRating" src="https://github.com/user-attachments/assets/e57738a6-d074-4afd-a678-ea1aa989f2c3" /></center>
+<hr>
+<img width="432" height="104" alt="pageRating" src="https://github.com/user-attachments/assets/e57738a6-d074-4afd-a678-ea1aa989f2c3" /></center>
 
