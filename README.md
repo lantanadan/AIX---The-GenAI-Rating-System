@@ -1,4 +1,4 @@
-# AIX - The AI Rating System
+# AIX - The GenAI Rating System
 
 <img width="1081" height="540" alt="AIXlogo" src="https://github.com/user-attachments/assets/26321bc0-1693-49f7-8031-74b572af71a7" />
 
