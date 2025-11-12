@@ -1,15 +1,13 @@
-# AIX - The GenAI Rating System
-
 <img width="1081" height="540" alt="AIXlogo" src="https://github.com/user-attachments/assets/26321bc0-1693-49f7-8031-74b572af71a7" />
 
-## Introduction
+# Introduction
 The AIX Rating System is a series of stylistic badges to denote the level of Generative AI involvement in your projects. The system is a simple and concise way, using the honor system of course, to demonstrate how much Generative AI was used in a creative endeavor.
 
 These ratings are designed to be as lenient and forgiving as possible when it comes to the use of AI, as there is a quite a broad range of uses, scenarios, and systems at play. It is not up to me or the ratings themselves to judge, rather it is up to you to be honest about how you created your work. These ratings do not go into detail, but give an "at a glance" overview of what's on offer. I encourage you to still disclose how Generative AI was used, particularly if you'd say a rating of 2 or greater is appropriate for your project.
 
 Similarly, if you are coming here to learn about this rating system, I encourage you to understand that there are nuances to every technology. For instance, a photographer using built-in AI tools in Photoshop to clean up hair is not a demon, and neither is a game developer with express, written permission from actors who've been properly compensated to use their voices for AI purposes. Please read what each individual creator has to say about their work, and put your pitchforks down if they do not have a speedpaint video, a behind-the-scenes diary, a live edit history, or are unwilling to open source their code for review. Not everyone can take the time to appease the ever-rising requirements of artists to prove their worth.
 
-## The Ratings
+# The Ratings
 <b>AI 0</b> - A rating of 0 means that a project includes no generative AI whatsoever, and AI was not actively consulted in its creation. This does not include tidbits of information gleamed from glancing over AI summaries appearing at the top of search engine results, or any other arguably unavoidable but wholly ignored instances of AI use. If your work is handmade, that's all there is to it. If it was made the way things were made before... let's say 2021, then a rating of 0 is appropriate.
 
 <b>AI 1</b> - A rating of 1 means AI was actively consulted in the creation of your project. This includes brainstorming or learning from an AI chatbot. This rating also applies to the use of AI tools in specific areas on a project, such as for visual cleanup, for increased pixel resolution (ie upscaling), for making an arduous task easier (for example, UV unwrapping a 3D model), for spellchecking, for project organization, etc. Essentially, if AI was used in a project, but all the work seen or heard is handmade, a rating of 1 is appropriate.
@@ -30,4 +28,9 @@ Please include the following attribution with your work:
 Or in Plain Text:
 <br>
 AIX - The GenAI Rating System  © 2025 by Danny Silvers is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# Get Involved
+This is an ongoing project and will receive updates as needed. The ratings are in desperate need of translation, preferably better than what Google Translate or a chatbot could do, so if you would like to take this on you can send translations my way or fork the project into your own language!
+
+<center><img width="432" height="104" alt="pageRating" src="https://github.com/user-attachments/assets/e57738a6-d074-4afd-a678-ea1aa989f2c3" /></center>
 
