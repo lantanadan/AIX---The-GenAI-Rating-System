@@ -50,6 +50,7 @@ A: No! Ratings are based on what you PUT into your work, not what a platform or 
 <b>Q: I didn't use any AI in my creation and a scan still said I did! What do I do?</b>
 A: Unfortunately this rating system cannot help you with such situations. However, this is the one exception I'm happy to make to the "these ratings are for you to rate your own creations" rule. Since it is ironically AI tools that determine if something was made by AI, and these have an accuracy about as good as a Stormtrooper, feel free to slap a sticker of an AIX Rating on the printed scan and hand it back.
 <hr>
+
 # Get Involved
 This is an ongoing project and will receive updates as needed. The ratings are in desperate need of translation, preferably better than what Google Translate or a chatbot could do, so if you would like to take this on you can send translations my way or fork the project into your own language! If you have other ideas for the ratings, I am very open to feedback and will see what I can do.
 
