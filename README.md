@@ -45,4 +45,4 @@ This is an ongoing project and will receive updates as needed. The ratings are i
 <hr>
 
 # Other Info
-The font used is Orbitron by the League of Moveable Type. <a href = "https://www.theleagueofmoveabletype.com/orbitron">https://www.theleagueofmoveabletype.com/orbitron</a>
+The font used is Orbitron by the League of Moveable Type. This is an Open Source font, and you may need it for making changes to the ratings. <a href = "https://www.theleagueofmoveabletype.com/orbitron">https://www.theleagueofmoveabletype.com/orbitron</a>
