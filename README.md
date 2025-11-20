@@ -44,10 +44,10 @@ AIX - The GenAI Rating System  © 2025 by Danny Silvers is licensed under CC BY-
 <hr>
 
 # FAQ
-<b>Q: Should I change my rating if my work was altered by an AI without my consent? For instance, YouTube upscaling shorts for mobile resolutions.</b><br>
+<b>Q: Should I change my rating if my work was altered by an AI without my consent? For instance, YouTube upscaling shorts for mobile.</b><br>
 A: No! Ratings are based on what you PUT into your work, not what a platform or someone else did with your work without your consent.
 <p>
-<b>Q: I didn't use any AI in my creation and a scan still said I did! What do I do?</b>
+<b>Q: I didn't use any AI in my creation and a scan still said I did! What do I do?</b><br>
 A: Unfortunately this rating system cannot help you with such situations. However, this is the one exception I'm happy to make to the "these ratings are for you to rate your own creations" rule. Since it is ironically AI tools that determine if something was made by AI, and these have an accuracy about as good as a Stormtrooper, feel free to slap a sticker of an AIX Rating on the printed scan and hand it back.
 <hr>
 
