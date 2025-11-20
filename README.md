@@ -42,7 +42,8 @@ Or in Plain Text:
 <br>
 AIX - The GenAI Rating System  © 2025 by Danny Silvers is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 <hr>
-# FAQ<p>
+
+# FAQ
 <b>Q: Should I change my rating if my work was altered by an AI without my consent? For instance, YouTube upscaling shorts for mobile resolutions.</b><br>
 A: No! Ratings are based on what you PUT into your work, not what a platform or someone else did with your work without your consent.
 <p>
