@@ -42,3 +42,7 @@ This is an ongoing project and will receive updates as needed. The ratings are i
 
 <hr>
 <img width="960" height="240" alt="pageRating" src="https://github.com/user-attachments/assets/8cabba0d-6ac4-433c-83f7-bf65aa9916ef" />
+<hr>
+
+# Other Info
+The font used is Orbitron by the League of Moveable Type. <a href = "https://www.theleagueofmoveabletype.com/orbitron">https://www.theleagueofmoveabletype.com/orbitron</a>
